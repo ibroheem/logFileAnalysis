@@ -1,0 +1,1472 @@
+2020-06-25 00:14:40 [2049] [5] INFO: Starting to service <Jamb Result> from <+2349045176009> to <55019>
+2020-06-25 00:14:40 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 00:14:40 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 00:14:40 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 00:14:40 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349045176009> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 00:16:31 [2049] [5] INFO: Starting to service <FATIMA ADAMU KAJURU> from <+2348120418106> to <55019>
+2020-06-25 00:17:07 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 00:17:11 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 00:17:11 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 00:17:11 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348120418106> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 01:08:32 [2049] [5] INFO: Starting to service <STATUS 2019> from <+2349075581472> to <55019>
+2020-06-25 01:08:32 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 01:08:32 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 01:08:32 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 01:08:32 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349075581472> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 01:11:35 [2049] [5] INFO: Starting to service <Results> from <+2349026736637> to <55019>
+2020-06-25 01:11:35 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 01:11:35 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 01:11:35 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 01:11:35 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349026736637> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 01:39:35 [2049] [5] INFO: Starting to service <Ozobia George Chukwuma> from <+2348081979175> to <55019>
+2020-06-25 01:39:35 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 01:39:35 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 01:39:35 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 01:39:35 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348081979175> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 01:41:03 [2049] [5] INFO: Starting to service <Results> from <+2349026736637> to <55019>
+2020-06-25 01:41:03 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 01:41:03 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 01:41:03 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 01:41:03 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349026736637> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 03:38:23 [2049] [5] INFO: Starting to service <PASSWORD piuse1666¡gmail.com> from <+2348028239483> to <55019>
+2020-06-25 03:38:23 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 03:38:23 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 03:38:23 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 03:38:23 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348028239483> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 03:47:00 [2049] [5] INFO: Starting to service <Password piuse1666¡gmail.com> from <+2348028239483> to <55019>
+2020-06-25 03:47:00 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 03:47:00 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 03:47:00 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 03:47:00 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348028239483> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 04:57:10 [2049] [5] INFO: Starting to service <RESULT> from <+2349079535791> to <55019>
+2020-06-25 04:57:10 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 04:57:10 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 04:57:10 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 04:57:10 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349079535791> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 04:58:18 [2049] [5] INFO: Starting to service <RESULT> from <+2349079535791> to <55019>
+2020-06-25 04:58:18 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 04:58:18 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 04:58:18 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 04:58:18 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349079535791> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 05:02:41 [2049] [5] INFO: Starting to service <RESULT> from <+2348128482689> to <55019>
+2020-06-25 05:02:41 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 05:02:41 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 05:02:41 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 05:02:41 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348128482689> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 06:04:44 [2049] [5] INFO: Starting to service <RESULT> from <+2347086478045> to <55019>
+2020-06-25 06:04:44 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 06:04:44 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 06:04:44 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 06:04:44 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2347086478045> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 06:29:17 [2049] [5] INFO: Starting to service <RESULT> from <+2347085697148> to <55019>
+2020-06-25 06:29:17 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 06:29:17 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 06:29:17 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 06:29:17 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2347085697148> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 06:30:52 [2049] [5] INFO: Starting to service <Result> from <+2347085697148> to <55019>
+2020-06-25 06:30:52 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 06:30:52 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 06:30:52 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 06:30:52 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2347085697148> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 06:39:31 [2049] [5] INFO: Starting to service <RESULT> from <+2347014727404> to <55019>
+2020-06-25 06:39:31 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 06:39:31 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 06:39:31 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 06:39:31 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2347014727404> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 06:43:06 [2049] [5] INFO: Starting to service <Result> from <+2348023625379> to <55019>
+2020-06-25 06:43:06 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 06:43:06 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 06:43:06 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 06:43:06 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348023625379> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 06:54:25 [2049] [5] INFO: Starting to service <Jamb result> from <+2347012684170> to <55019>
+2020-06-25 06:54:25 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 06:54:25 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 06:54:25 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 06:54:25 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2347012684170> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 06:54:57 [2049] [5] INFO: Starting to service <  RESULT> from <+2348082615577> to <55019>
+2020-06-25 06:54:57 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 06:54:57 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 06:54:57 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348082615577> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 06:54:57 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 06:59:12 [2049] [5] INFO: Starting to service <My result> from <+2347018650301> to <55019>
+2020-06-25 06:59:12 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 06:59:12 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 06:59:12 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 06:59:12 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2347018650301> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 07:02:15 [2049] [5] INFO: Starting to service <Check result> from <+2349026176911> to <55019>
+2020-06-25 07:02:15 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 07:02:15 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 07:02:15 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 07:02:15 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349026176911> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 07:02:40 [2049] [5] INFO: Starting to service <RESULT> from <+2349012246705> to <55019>
+2020-06-25 07:02:40 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 07:02:40 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 07:02:40 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 07:02:40 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349012246705> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 07:03:43 [2049] [5] INFO: Starting to service <result> from <+2349074246716> to <55019>
+2020-06-25 07:03:43 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 07:03:43 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 07:03:43 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 07:03:43 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349074246716> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 07:04:15 [2049] [5] INFO: Starting to service <My result> from <+2347018650301> to <55019>
+2020-06-25 07:04:15 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 07:04:15 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 07:04:15 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 07:04:15 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2347018650301> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 07:12:33 [2049] [5] INFO: Starting to service <Daud abdul azeez opeyemi> from <+2349072740151> to <55019>
+2020-06-25 07:12:33 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 07:12:33 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 07:12:33 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 07:12:33 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349072740151> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 07:19:27 [2049] [5] INFO: Starting to service <Dear Dalhatu Ahmedsalim.Your 2020 UTME Result:ENG:53.PHY:46.BIO:48.CHE:38.Aggreget.183> from <+2349016135498> to <55019>
+2020-06-25 07:19:27 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 07:19:27 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 07:19:27 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 07:19:27 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349016135498> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 07:21:42 [2049] [5] INFO: Starting to service <Jamb result> from <+2348081102671> to <55019>
+2020-06-25 07:21:42 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 07:21:42 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 07:21:42 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 07:21:42 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348081102671> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 07:33:48 [2049] [5] INFO: Starting to service <Result> from <+2349025502430> to <55019>
+2020-06-25 07:33:48 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 07:33:48 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 07:33:48 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 07:33:48 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349025502430> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 07:36:07 [2049] [5] INFO: Starting to service <Result> from <+2347085291324> to <55019>
+2020-06-25 07:36:07 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 07:36:07 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 07:36:07 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 07:36:07 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2347085291324> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 07:38:32 [2049] [5] INFO: Starting to service <Resuit> from <+2348122300555> to <55019>
+2020-06-25 07:38:32 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 07:38:32 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 07:38:32 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 07:38:32 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348122300555> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 07:50:21 [2049] [5] INFO: Starting to service <Dww> from <+2347088292366> to <55019>
+2020-06-25 07:50:21 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 07:50:21 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 07:50:21 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 07:50:21 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2347088292366> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 08:20:39 [2049] [5] INFO: Starting to service <RESULT> from <+2349079698270> to <55019>
+2020-06-25 08:20:39 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 08:20:39 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 08:20:39 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 08:20:39 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349079698270> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 08:21:24 [2049] [5] INFO: Starting to service <Ok when we send message> from <+2348085384234> to <55019>
+2020-06-25 08:21:24 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 08:21:24 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 08:21:24 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 08:21:24 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348085384234> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 08:21:28 [2049] [5] INFO: Starting to service <ADMISSON> from <+2347019938418> to <55019>
+2020-06-25 08:21:28 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 08:21:28 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 08:21:28 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 08:21:28 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2347019938418> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 08:23:12 [2049] [5] INFO: Starting to service <55019> from <+2348085384234> to <55019>
+2020-06-25 08:23:12 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 08:23:12 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 08:23:12 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 08:23:12 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348085384234> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 08:24:04 [2049] [5] INFO: Starting to service <RESULT> from <+2348124669464> to <55019>
+2020-06-25 08:24:04 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 08:24:04 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 08:24:04 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 08:24:04 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348124669464> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 08:26:01 [2049] [5] INFO: Starting to service <result> from <+2348127997457> to <55019>
+2020-06-25 08:26:01 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 08:26:01 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 08:26:01 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 08:26:01 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348127997457> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 08:35:43 [2049] [5] INFO: Starting to service <RESULT> from <+2349071253742> to <55019>
+2020-06-25 08:35:43 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 08:35:43 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 08:35:43 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 08:35:43 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349071253742> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 08:39:15 [2049] [5] INFO: Starting to service <Cm> from <+2348024400616> to <55019>
+2020-06-25 08:39:15 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 08:39:15 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 08:39:15 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 08:39:15 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348024400616> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 08:40:18 [2049] [5] INFO: Starting to service <RESULT> from <+2348025117994> to <55019>
+2020-06-25 08:40:18 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 08:40:18 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 08:40:18 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 08:40:18 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348025117994> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 08:40:37 [2049] [5] INFO: Starting to service <RESULT> from <+2347081607226> to <55019>
+2020-06-25 08:40:37 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 08:40:37 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 08:40:37 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 08:40:37 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2347081607226> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 08:41:24 [2049] [5] INFO: Starting to service <result> from <+2347082669611> to <55019>
+2020-06-25 08:41:24 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 08:41:24 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 08:41:24 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 08:41:24 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2347082669611> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 08:44:33 [2049] [5] INFO: Starting to service <RESULT> from <+2349079535791> to <55019>
+2020-06-25 08:44:33 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 08:44:33 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 08:44:33 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 08:44:33 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349079535791> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 08:49:06 [2049] [5] INFO: Starting to service <RESULT > from <+2349010820009> to <55019>
+2020-06-25 08:49:06 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 08:49:06 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 08:49:06 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 08:49:06 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349010820009> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 08:50:57 [2049] [5] INFO: Starting to service <RESULT,    CHIDEBELU BLESSING CHIDUMEBI.> from <+2349010896562> to <55019>
+2020-06-25 08:50:57 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 08:50:57 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 08:50:57 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 08:50:57 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349010896562> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 08:52:22 [2049] [5] INFO: Starting to service <RESULT> from <+2347014677388> to <55019>
+2020-06-25 08:52:22 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 08:52:22 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 08:52:22 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 08:52:22 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2347014677388> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 08:52:27 [2049] [5] INFO: Starting to service <Jamb result> from <+2349049929841> to <55019>
+2020-06-25 08:52:27 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 08:52:27 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 08:52:27 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 08:52:27 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349049929841> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 08:52:37 [2049] [5] INFO: Starting to service <Signature: Sent from unknown smartphone> from <+2348085384234> to <55019>
+2020-06-25 08:52:37 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 08:52:37 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 08:52:37 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 08:52:37 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348085384234> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 08:53:55 [2049] [5] INFO: Starting to service <RESULT> from <+2349042503954> to <55019>
+2020-06-25 08:53:55 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 08:53:55 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 08:53:55 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 08:53:55 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349042503954> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 08:55:09 [2049] [5] INFO: Starting to service <Majorjawaaamddamjp > from <+2347011283210> to <55019>
+2020-06-25 08:55:09 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 08:55:09 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 08:55:09 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 08:55:09 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2347011283210> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 08:57:55 [2049] [5] INFO: Starting to service <RESULT> from <+2348122123533> to <55019>
+2020-06-25 08:57:55 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 08:57:55 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 08:57:55 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 08:57:55 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348122123533> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 09:00:43 [2049] [5] INFO: Starting to service <Result> from <+2348022915162> to <55019>
+2020-06-25 09:00:43 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 09:00:43 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 09:00:43 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 09:00:43 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348022915162> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 09:09:45 [2049] [5] INFO: Starting to service <CALEB,Joshua Magaji> from <+2349078727908> to <55019>
+2020-06-25 09:09:45 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 09:09:45 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 09:09:45 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 09:09:45 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349078727908> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 09:11:20 [2049] [5] INFO: Starting to service <RESULT> from <+2348124943666> to <55019>
+2020-06-25 09:11:20 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 09:11:20 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 09:11:20 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 09:11:20 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348124943666> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 09:15:33 [2049] [5] INFO: Starting to service <Result> from <+2348083645833> to <55019>
+2020-06-25 09:15:33 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 09:15:33 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 09:15:33 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 09:15:33 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348083645833> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 09:22:17 [2049] [5] INFO: Starting to service <RESULT to 55019> from <+2349016774732> to <55019>
+2020-06-25 09:22:17 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 09:22:17 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 09:22:17 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 09:22:17 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349016774732> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 09:22:27 [2049] [5] INFO: Starting to service <Results> from <+2349026335132> to <55019>
+2020-06-25 09:22:27 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 09:22:27 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 09:22:27 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 09:22:27 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349026335132> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 09:25:03 [2049] [5] INFO: Starting to service <RESULT> from <+2348122123533> to <55019>
+2020-06-25 09:25:03 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 09:25:03 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 09:25:03 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 09:25:03 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348122123533> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 09:33:02 [2049] [5] INFO: Starting to service <RESULT> from <+2348023205442> to <55019>
+2020-06-25 09:33:02 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 09:33:02 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 09:33:02 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 09:33:02 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348023205442> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 09:33:05 [2049] [5] INFO: Starting to service <Result> from <+2347014997038> to <55019>
+2020-06-25 09:33:05 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 09:33:05 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 09:33:05 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 09:33:05 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2347014997038> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 09:33:56 [2049] [5] INFO: Starting to service <Ok thank> from <+2349078875378> to <55019>
+2020-06-25 09:33:56 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 09:33:56 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 09:33:56 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 09:33:56 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349078875378> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 09:37:10 [2049] [5] INFO: Starting to service <Risutl> from <+2349076018661> to <55019>
+2020-06-25 09:37:10 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 09:37:10 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 09:37:10 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 09:37:10 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349076018661> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 09:38:07 [2049] [5] INFO: Starting to service <Risult> from <+2349076018661> to <55019>
+2020-06-25 09:38:07 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 09:38:07 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 09:38:07 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 09:38:07 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349076018661> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 09:38:48 [2049] [5] INFO: Starting to service <RESULT,   CHIDEBELU BLESSING  CHIDUMEBI .> from <+2349010896562> to <55019>
+2020-06-25 09:38:48 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 09:38:48 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 09:38:48 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 09:38:48 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349010896562> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 09:47:41 [2049] [5] INFO: Starting to service <Result > from <+2349013476864> to <55019>
+2020-06-25 09:47:41 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 09:47:41 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 09:47:41 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 09:47:41 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349013476864> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 09:53:00 [2049] [5] INFO: Starting to service <Sani bala my result> from <+2349073086531> to <55019>
+2020-06-25 09:53:00 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 09:53:00 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 09:53:00 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 09:53:00 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349073086531> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 09:54:55 [2049] [5] INFO: Starting to service <Password piuse1666¡gmail.com> from <+2348028239483> to <55019>
+2020-06-25 09:54:55 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 09:54:55 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 09:54:55 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 09:54:55 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348028239483> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 09:56:29 [2049] [5] INFO: Starting to service <RESULT: OMOTOSO IYANUOLUWA GRACE> from <+2349023676471> to <55019>
+2020-06-25 09:56:29 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 09:56:29 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 09:56:29 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 09:56:29 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349023676471> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 09:58:04 [2049] [5] INFO: Starting to service <RESULT : OMOTOSO IYANUOLUWA GRACE> from <+2349023676471> to <55019>
+2020-06-25 09:58:04 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 09:58:04 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 09:58:04 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 09:58:04 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349023676471> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 10:05:09 [2049] [5] INFO: Starting to service <Result> from <+2348029521829> to <55019>
+2020-06-25 10:05:09 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 10:05:09 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 10:05:09 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 10:05:09 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348029521829> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 10:05:44 [2049] [5] INFO: Starting to service <Uranta Tamunokuro Prevail> from <+2349010269445> to <55019>
+2020-06-25 10:05:44 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 10:05:44 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 10:05:44 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 10:05:44 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349010269445> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 10:08:25 [2049] [5] INFO: Starting to service <RESULT TO 55019> from <+2349018257871> to <55019>
+2020-06-25 10:08:25 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 10:08:25 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 10:08:25 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 10:08:25 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349018257871> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 10:11:23 [2049] [5] INFO: Starting to service <RESULT> from <+2347082090124> to <55019>
+2020-06-25 10:11:23 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 10:11:23 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 10:11:23 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 10:11:23 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2347082090124> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 10:22:39 [2049] [5] INFO: Starting to service <Result> from <+2347088129281> to <55019>
+2020-06-25 10:22:39 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 10:22:39 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 10:22:39 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 10:22:39 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2347088129281> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 10:22:59 [2049] [5] INFO: Starting to service <REST> from <+2349010841509> to <55019>
+2020-06-25 10:22:59 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 10:22:59 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 10:22:59 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 10:22:59 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349010841509> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 10:25:57 [2049] [5] INFO: Starting to service <RESULT > from <+2349049498776> to <55019>
+2020-06-25 10:25:57 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 10:25:57 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 10:25:57 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 10:25:57 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349049498776> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 10:32:54 [2049] [5] INFO: Starting to service <Result> from <+2349021887180> to <55019>
+2020-06-25 10:32:54 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 10:32:54 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 10:32:54 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 10:32:54 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349021887180> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 10:33:25 [2049] [5] INFO: Starting to service <RESULT> from <+2348029802013> to <55019>
+2020-06-25 10:33:25 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 10:33:25 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 10:33:25 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 10:33:25 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348029802013> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 10:37:50 [2049] [5] INFO: Starting to service <RESULT> from <+2349013749990> to <55019>
+2020-06-25 10:37:50 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 10:37:50 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 10:37:50 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 10:37:50 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349013749990> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 10:40:25 [2049] [5] INFO: Starting to service <PGP:-).> from <+2349026194703> to <55019>
+2020-06-25 10:40:25 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 10:40:25 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 10:40:25 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 10:40:25 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349026194703> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 10:44:17 [2049] [5] INFO: Starting to service <usmansadiqmuhammadmyresult> from <+2348088920422> to <55019>
+2020-06-25 10:44:17 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 10:44:17 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 10:44:17 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 10:44:17 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348088920422> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 10:45:46 [2049] [5] INFO: Starting to service <RESULT> from <+2348083914637> to <55019>
+2020-06-25 10:45:46 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 10:45:46 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 10:45:46 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 10:45:46 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348083914637> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 10:49:38 [2049] [5] INFO: Starting to service <20154010GA> from <+2348026554658> to <55019>
+2020-06-25 10:49:38 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 10:49:38 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 10:49:38 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 10:49:38 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348026554658> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 10:51:38 [2049] [5] INFO: Starting to service <Ukommadu uju juliet> from <+2349027430056> to <55019>
+2020-06-25 10:51:38 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 10:51:38 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 10:51:38 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 10:51:38 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349027430056> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 10:52:26 [2049] [5] INFO: Starting to service <Results > from <+2348027807541> to <55019>
+2020-06-25 10:52:26 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 10:52:26 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 10:52:26 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 10:52:26 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348027807541> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 10:52:54 [2049] [5] INFO: Starting to service <Result> from <+2347089349597> to <55019>
+2020-06-25 10:52:54 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 10:52:54 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 10:52:54 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 10:52:54 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2347089349597> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 11:02:36 [2049] [5] INFO: Starting to service <Result> from <+2348088086834> to <55019>
+2020-06-25 11:02:36 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 11:02:36 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 11:02:36 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 11:02:36 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348088086834> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 11:03:33 [2049] [5] INFO: Starting to service <Result> from <+2347014997038> to <55019>
+2020-06-25 11:03:33 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 11:03:33 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 11:03:33 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 11:03:33 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2347014997038> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 11:03:44 [2049] [5] INFO: Starting to service <RESULT > from <+2348033559261> to <55019>
+2020-06-25 11:03:44 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 11:03:44 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 11:03:44 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 11:03:44 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348033559261> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 11:03:58 [2049] [5] INFO: Starting to service <STATUS 2019> from <+2349075813284> to <55019>
+2020-06-25 11:03:58 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 11:03:58 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 11:03:58 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349075813284> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 11:03:58 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 11:04:27 [2049] [5] INFO: Starting to service <Result> from <+2349026736637> to <55019>
+2020-06-25 11:04:27 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 11:04:27 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 11:04:27 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 11:04:27 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349026736637> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 11:04:54 [2049] [5] INFO: Starting to service <Aneiboro terhemba solomon result> from <+2347085139914> to <55019>
+2020-06-25 11:04:54 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 11:04:54 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 11:04:54 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2347085139914> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 11:04:54 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 11:05:19 [2049] [5] INFO: Starting to service <Results> from <+2349023153299> to <55019>
+2020-06-25 11:05:19 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 11:05:19 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 11:05:19 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 11:05:19 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349023153299> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 11:10:22 [2049] [5] INFO: Starting to service <RESULT > from <+2348129006729> to <55019>
+2020-06-25 11:10:22 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 11:10:22 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 11:10:22 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 11:10:22 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348129006729> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 11:14:12 [2049] [5] INFO: Starting to service <  Result  > from <+2347017441509> to <55019>
+2020-06-25 11:14:12 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 11:14:12 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 11:14:12 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 11:14:12 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2347017441509> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 11:23:51 [2049] [5] INFO: Starting to service <MIRACLE KIINGWANGE BISONG> from <+2348123823229> to <55019>
+2020-06-25 11:23:51 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 11:23:51 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 11:23:51 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 11:23:51 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348123823229> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 11:25:25 [2049] [5] INFO: Starting to service <20102843GA> from <+2348123256037> to <55019>
+2020-06-25 11:25:25 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 11:25:25 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 11:25:25 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 11:25:25 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348123256037> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 11:29:03 [2049] [5] INFO: Starting to service <PASSWORD marvitovincent¡gmail.com> from <+2349042477131> to <55019>
+2020-06-25 11:29:03 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 11:29:03 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 11:29:03 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 11:29:03 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349042477131> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 11:29:42 [2049] [5] INFO: Starting to service <RESULT> from <+2347015716481> to <55019>
+2020-06-25 11:29:42 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 11:29:42 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 11:29:42 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 11:29:42 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2347015716481> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 11:32:24 [2049] [5] INFO: Starting to service <Result> from <+2349011687974> to <55019>
+2020-06-25 11:32:24 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 11:32:24 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 11:32:24 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 11:32:24 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349011687974> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 11:34:03 [2049] [5] INFO: Starting to service <Results > from <+2348027807541> to <55019>
+2020-06-25 11:34:03 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 11:34:03 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 11:34:03 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 11:34:03 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348027807541> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 11:34:08 [2049] [5] INFO: Starting to service <RESULT> from <+2347010724388> to <55019>
+2020-06-25 11:34:08 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 11:34:08 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 11:34:08 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 11:34:08 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2347010724388> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 11:35:42 [2049] [5] INFO: Starting to service <RESUIT> from <+2349046104092> to <55019>
+2020-06-25 11:35:42 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 11:35:42 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 11:35:42 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 11:35:42 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349046104092> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 11:36:48 [2049] [5] INFO: Starting to service <RESULT> from <+2348023870649> to <55019>
+2020-06-25 11:36:48 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 11:36:48 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 11:36:48 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 11:36:48 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348023870649> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 11:39:07 [2049] [5] INFO: Starting to service <Emmanuel Bitrus Zughumben RESULT> from <+2349043685535> to <55019>
+2020-06-25 11:39:07 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 11:39:07 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 11:39:07 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 11:39:07 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349043685535> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 11:39:43 [2049] [5] INFO: Starting to service <RESULT> from <+2347015428702> to <55019>
+2020-06-25 11:39:43 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 11:39:43 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 11:39:43 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 11:39:43 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2347015428702> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 11:41:42 [2049] [5] INFO: Starting to service <Password  mailgideon2020¡gmail.com> from <+2349049217380> to <55019>
+2020-06-25 11:41:42 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 11:41:42 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 11:41:42 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 11:41:42 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349049217380> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 11:41:47 [2049] [5] INFO: Starting to service <Result> from <+2349043685535> to <55019>
+2020-06-25 11:41:47 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 11:41:47 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 11:41:47 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 11:41:47 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349043685535> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 11:42:50 [2049] [5] INFO: Starting to service <RESULT> from <+2348122146754> to <55019>
+2020-06-25 11:42:50 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 11:42:50 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 11:42:50 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 11:42:50 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348122146754> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 11:44:56 [2049] [5] INFO: Starting to service <Admission> from <+2349013451292> to <55019>
+2020-06-25 11:44:56 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 11:44:56 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 11:44:56 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 11:44:56 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349013451292> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 11:47:56 [2049] [5] INFO: Starting to service <RESULT> from <+2349027163699> to <55019>
+2020-06-25 11:47:56 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 11:47:56 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 11:47:56 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 11:47:56 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349027163699> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 11:49:01 [2049] [5] INFO: Starting to service <RESULTS> from <+2349029403622> to <55019>
+2020-06-25 11:49:01 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 11:49:01 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 11:49:01 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 11:49:01 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349029403622> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 12:00:49 [2049] [5] INFO: Starting to service <RESULT> from <+2348129704141> to <55019>
+2020-06-25 12:00:49 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 12:00:49 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 12:00:49 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 12:00:49 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348129704141> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 12:07:42 [2049] [5] INFO: Starting to service <OK> from <+2349027430056> to <55019>
+2020-06-25 12:07:42 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 12:07:42 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 12:07:42 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 12:07:42 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349027430056> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 12:07:59 [2049] [5] INFO: Starting to service <Result> from <+2349029770895> to <55019>
+2020-06-25 12:07:59 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 12:07:59 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 12:07:59 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 12:07:59 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349029770895> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 12:21:40 [2049] [5] INFO: Starting to service <RESULT> from <+2347014531746> to <55019>
+2020-06-25 12:21:40 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 12:21:40 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 12:21:40 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 12:21:40 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2347014531746> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 12:30:52 [2049] [5] INFO: Starting to service <MY RESULT > from <+2348026599306> to <55019>
+2020-06-25 12:30:52 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 12:30:52 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 12:30:52 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 12:30:52 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348026599306> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 12:33:18 [2049] [5] INFO: Starting to service <Bassey wisdom paulinus RESULT> from <+2349074130459> to <55019>
+2020-06-25 12:33:18 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 12:33:18 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 12:33:18 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 12:33:18 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349074130459> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 12:43:11 [2049] [5] INFO: Starting to service <RESULT> from <+2348082615577> to <55019>
+2020-06-25 12:43:11 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 12:43:11 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 12:43:11 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 12:43:11 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348082615577> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 12:49:17 [2049] [5] INFO: Starting to service <OK> from <+2348083932973> to <55019>
+2020-06-25 12:49:17 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 12:49:17 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 12:49:17 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 12:49:17 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348083932973> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 13:07:56 [2049] [5] INFO: Starting to service <RESULT> from <+2349029290355> to <55019>
+2020-06-25 13:07:56 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 13:07:56 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 13:07:56 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 13:07:56 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349029290355> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 13:09:04 [2049] [5] INFO: Starting to service <RESULT> from <+2347015428702> to <55019>
+2020-06-25 13:09:04 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 13:09:04 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 13:09:04 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 13:09:04 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2347015428702> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 13:14:33 [2049] [5] INFO: Starting to service <Result> from <+2347017441509> to <55019>
+2020-06-25 13:14:33 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 13:14:33 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 13:14:33 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 13:14:33 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2347017441509> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 13:18:15 [2049] [5] INFO: Starting to service <RESULT> from <+2348122354645> to <55019>
+2020-06-25 13:18:15 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 13:18:15 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 13:18:15 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 13:18:15 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348122354645> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 13:25:27 [2049] [5] INFO: Starting to service <RESULT> from <+2348128886882> to <55019>
+2020-06-25 13:25:27 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 13:25:27 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 13:25:27 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 13:25:27 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348128886882> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 13:31:18 [2049] [5] INFO: Starting to service <Result> from <+2347015354140> to <55019>
+2020-06-25 13:31:18 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 13:31:18 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 13:31:18 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 13:31:18 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2347015354140> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 13:36:48 [2049] [5] INFO: Starting to service <RESULT> from <+2347014531746> to <55019>
+2020-06-25 13:36:48 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 13:36:48 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 13:36:48 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 13:36:48 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2347014531746> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 13:43:46 [2049] [5] INFO: Starting to service <Result> from <+2347015354140> to <55019>
+2020-06-25 13:43:46 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 13:43:46 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 13:43:46 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 13:43:46 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2347015354140> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 13:44:30 [2049] [5] INFO: Starting to service <Result> from <+2347015354140> to <55019>
+2020-06-25 13:44:30 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 13:44:30 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 13:44:30 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 13:44:30 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2347015354140> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 13:56:20 [2049] [5] INFO: Starting to service <RESULT> from <+2348029349807> to <55019>
+2020-06-25 13:56:20 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 13:56:20 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 13:56:20 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 13:56:20 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348029349807> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 14:00:54 [2049] [5] INFO: Starting to service <RESULT> from <+2349043823840> to <55019>
+2020-06-25 14:00:54 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 14:00:54 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 14:00:54 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 14:00:54 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349043823840> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 14:03:29 [2049] [5] INFO: Starting to service <Result> from <+2349044186002> to <55019>
+2020-06-25 14:03:29 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 14:03:29 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 14:03:29 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 14:03:29 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349044186002> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 14:04:47 [2049] [5] INFO: Starting to service <Password Emmanuelamos679¡gmail.com> from <+2349027306885> to <55019>
+2020-06-25 14:04:47 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 14:04:47 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 14:04:47 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 14:04:47 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349027306885> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 14:10:50 [2049] [5] INFO: Starting to service <ABILEKO ABOSEDE> from <+2349011451055> to <55019>
+2020-06-25 14:10:50 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 14:10:50 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 14:10:50 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 14:10:50 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349011451055> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 14:10:56 [2049] [5] INFO: Starting to service <ABILEKO ABOSEDE> from <+2349011451055> to <55019>
+2020-06-25 14:10:56 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 14:10:56 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 14:10:56 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 14:10:56 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349011451055> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 14:15:16 [2049] [5] INFO: Starting to service <OYAWOYE KOLADE JAMES REGISTRATION NUMBER:21900973ca> from <+2348020932342> to <55019>
+2020-06-25 14:15:16 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 14:15:16 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 14:15:16 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 14:15:16 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348020932342> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 14:16:54 [2049] [5] INFO: Starting to service <Password                               adodoomoyemi6¡gmail.com> from <+2348024364925> to <55019>
+2020-06-25 14:16:54 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 14:16:54 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 14:16:54 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 14:16:54 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348024364925> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 14:28:37 [2049] [5] INFO: Starting to service <Takiri Joseph Yusuf> from <+2348121694803> to <55019>
+2020-06-25 14:28:37 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 14:28:37 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 14:28:37 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 14:28:37 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348121694803> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 14:29:56 [2049] [5] INFO: Starting to service <RESULT> from <+2348087076159> to <55019>
+2020-06-25 14:29:56 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 14:29:56 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 14:29:56 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 14:29:56 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348087076159> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 14:30:12 [2049] [5] INFO: Starting to service <Result> from <+2349073488082> to <55019>
+2020-06-25 14:30:12 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 14:30:12 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 14:30:12 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 14:30:12 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349073488082> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 14:33:10 [2049] [5] INFO: Starting to service <RESULT> from <+2348188405490> to <55019>
+2020-06-25 14:33:10 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 14:33:10 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 14:33:10 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 14:33:10 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348188405490> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 14:36:34 [2049] [5] INFO: Starting to service <55019> from <+2349048926287> to <55019>
+2020-06-25 14:36:35 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 14:36:35 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 14:36:35 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 14:36:35 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349048926287> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 14:38:48 [2049] [5] INFO: Starting to service <RESULT> from <+2349024601724> to <55019>
+2020-06-25 14:38:48 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 14:38:48 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 14:38:48 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 14:38:48 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349024601724> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 14:46:03 [2049] [5] INFO: Starting to service <RESULTS> from <+2347089655961> to <55019>
+2020-06-25 14:46:03 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 14:46:03 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 14:46:03 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 14:46:03 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2347089655961> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 14:46:25 [2049] [5] INFO: Starting to service <RESULT> from <+2348125912731> to <55019>
+2020-06-25 14:46:25 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 14:46:25 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 14:46:25 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 14:46:25 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348125912731> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 14:52:34 [2049] [5] INFO: Starting to service <RESULT> from <+2348087076159> to <55019>
+2020-06-25 14:52:34 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 14:52:34 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 14:52:34 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 14:52:34 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348087076159> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 14:52:45 [2049] [5] INFO: Starting to service <RESULTS > from <+2348124546755> to <55019>
+2020-06-25 14:52:45 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 14:52:45 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 14:52:45 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348124546755> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 14:52:45 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 15:00:42 [2049] [5] INFO: Starting to service <Result> from <+2349025391119> to <55019>
+2020-06-25 15:00:42 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 15:00:42 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 15:00:42 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 15:00:42 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349025391119> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 15:05:36 [2049] [5] INFO: Starting to service <Ogunnike adeola justinah> from <+2349010042151> to <55019>
+2020-06-25 15:05:36 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 15:05:36 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 15:05:36 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 15:05:36 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349010042151> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 15:06:16 [2049] [5] INFO: Starting to service <CORRECT OKON VICTOR UMOH> from <+2349023385314> to <55019>
+2020-06-25 15:06:16 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 15:06:16 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 15:06:16 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 15:06:16 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349023385314> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 15:09:43 [2049] [5] INFO: Starting to service <Ok> from <+2348020664629> to <55019>
+2020-06-25 15:09:43 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 15:09:43 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 15:09:43 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 15:09:43 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348020664629> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 15:11:24 [2049] [5] INFO: Starting to service <RESULT> from <+2349079535791> to <55019>
+2020-06-25 15:11:24 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 15:11:24 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 15:11:24 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 15:11:24 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349079535791> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 15:11:38 [2049] [5] INFO: Starting to service <SEND RESULT> from <+2348020664629> to <55019>
+2020-06-25 15:11:38 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 15:11:38 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 15:11:38 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 15:11:38 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348020664629> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 15:13:43 [2049] [5] INFO: Starting to service <5838005693 Change Course & School> from <+2348022666479> to <55019>
+2020-06-25 15:13:43 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 15:13:43 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 15:13:43 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 15:13:43 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348022666479> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 15:20:17 [2049] [5] INFO: Starting to service <RESULT> from <+2349012442927> to <55019>
+2020-06-25 15:20:17 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 15:20:17 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 15:20:17 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 15:20:17 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349012442927> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 15:29:58 [2049] [5] INFO: Starting to service <09014188709 RESULT> from <+2349014188709> to <55019>
+2020-06-25 15:29:58 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 15:29:58 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 15:29:58 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 15:29:58 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349014188709> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 15:30:41 [2049] [5] INFO: Starting to service <RESULT> from <+2347015341860> to <55019>
+2020-06-25 15:30:41 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 15:30:41 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 15:30:41 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 15:30:41 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2347015341860> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 15:31:56 [2049] [5] INFO: Starting to service <ABOYI GEORGE OCHOGBE> from <+2349044745311> to <55019>
+2020-06-25 15:31:56 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 15:31:56 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 15:31:56 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 15:31:56 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349044745311> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 15:37:21 [2049] [5] INFO: Starting to service <RESULT> from <+2348087089199> to <55019>
+2020-06-25 15:37:21 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 15:37:21 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 15:37:21 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 15:37:21 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348087089199> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 15:37:52 [2049] [5] INFO: Starting to service <Cods> from <+2347019855840> to <55019>
+2020-06-25 15:37:52 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 15:37:52 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 15:37:52 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 15:37:52 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2347019855840> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 15:39:59 [2049] [5] INFO: Starting to service <OJESOLA TAIWO ROSELINE> from <+2347083144648> to <55019>
+2020-06-25 15:39:59 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 15:39:59 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 15:39:59 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 15:39:59 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2347083144648> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 15:40:36 [2049] [5] INFO: Starting to service <Result> from <+2348128319936> to <55019>
+2020-06-25 15:40:36 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 15:40:36 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 15:40:36 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 15:40:36 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348128319936> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 15:44:01 [2049] [5] INFO: Starting to service <RESULT> from <+2349074020264> to <55019>
+2020-06-25 15:44:01 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 15:44:01 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 15:44:01 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 15:44:01 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349074020264> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 15:57:55 [2049] [5] INFO: Starting to service <Iortim Yimase Stella> from <+2349044166912> to <55019>
+2020-06-25 15:57:55 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 15:57:55 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 15:57:55 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 15:57:55 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349044166912> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 16:00:31 [2049] [5] INFO: Starting to service <My result> from <+2347018650301> to <55019>
+2020-06-25 16:00:31 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 16:00:31 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 16:00:31 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 16:00:31 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2347018650301> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 16:01:27 [2049] [5] INFO: Starting to service <Please!  SUBSTRIBE AND LIKE THIS VIDEO, SEND AN EMAIL TO:fineeguono982¡gmail.com For a copy of the E-book, Is free! Thanks Click the link blow!!! > from <+2349015950631> to <55019>
+2020-06-25 16:01:27 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 16:01:27 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 16:01:27 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 16:01:27 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349015950631> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 16:03:22 [2049] [5] INFO: Starting to service <RESULT> from <+2347013572935> to <55019>
+2020-06-25 16:03:22 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 16:03:22 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 16:03:22 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 16:03:22 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2347013572935> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 16:06:08 [2049] [5] INFO: Starting to service <RESULT > from <+2348128810188> to <55019>
+2020-06-25 16:06:08 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 16:06:08 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 16:06:08 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 16:06:08 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348128810188> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 16:06:22 [2049] [5] INFO: Starting to service <O K > from <+2349043193876> to <55019>
+2020-06-25 16:06:22 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 16:06:22 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 16:06:22 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 16:06:22 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349043193876> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 16:08:56 [2049] [5] INFO: Starting to service <RESULT> from <+2347085194398> to <55019>
+2020-06-25 16:08:56 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 16:08:56 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 16:08:56 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 16:08:56 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2347085194398> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 16:17:59 [2049] [5] INFO: Starting to service <RESULT > from <+2348128810188> to <55019>
+2020-06-25 16:17:59 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 16:17:59 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 16:17:59 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 16:17:59 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348128810188> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 16:25:57 [2049] [5] INFO: Starting to service <202D0052004500530055004C0054202C> from <+2347012041907> to <55019>
+2020-06-25 16:25:57 [2049] [9] ERROR: Couldn't fetch <http://127.0.0.1:8083/api/v1.0/airtel/receive?msisdn=%2B2347012041907&from=55019&message=202D0052004500530055004C0054202C>
+2020-06-25 16:26:07 [2049] [9] ERROR: Couldn't fetch <http://127.0.0.1:8083/api/v1.0/airtel/receive?msisdn=%2B2347012041907&from=55019&message=202D0052004500530055004C0054202C>
+2020-06-25 16:26:17 [2049] [9] ERROR: Couldn't fetch <http://127.0.0.1:8083/api/v1.0/airtel/receive?msisdn=%2B2347012041907&from=55019&message=202D0052004500530055004C0054202C>
+2020-06-25 16:26:27 [2049] [9] ERROR: Couldn't fetch <http://127.0.0.1:8083/api/v1.0/airtel/receive?msisdn=%2B2347012041907&from=55019&message=202D0052004500530055004C0054202C>
+2020-06-25 16:26:27 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 16:28:48 [2049] [5] INFO: Starting to service <RESULT> from <+2347017605886> to <55019>
+2020-06-25 16:28:48 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 16:28:48 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 16:28:48 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 16:28:48 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2347017605886> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 16:35:00 [2049] [5] INFO: Starting to service <RESULT> from <+2347080158831> to <55019>
+2020-06-25 16:35:00 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 16:35:00 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 16:35:00 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 16:35:00 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2347080158831> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 16:35:16 [2049] [5] INFO: Starting to service <Result> from <+2347017324936> to <55019>
+2020-06-25 16:35:16 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 16:35:16 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 16:35:16 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 16:35:16 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2347017324936> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 16:40:17 [2049] [5] INFO: Starting to service <RESULT> from <+2348020600830> to <55019>
+2020-06-25 16:40:17 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 16:40:17 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 16:40:17 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 16:40:17 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348020600830> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 16:40:52 [2049] [5] INFO: Starting to service <RESULT> from <+2349077567679> to <55019>
+2020-06-25 16:40:52 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 16:40:52 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 16:40:52 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 16:40:52 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349077567679> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 16:41:04 [2049] [5] INFO: Starting to service <BUNGE HOPE JAMB RESULT> from <+2347012609583> to <55019>
+2020-06-25 16:41:04 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 16:41:04 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 16:41:04 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 16:41:04 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2347012609583> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 16:49:03 [2049] [5] INFO: Starting to service <JAMB RESULT for Peter Bernard Bainsheko> from <+2347083945398> to <55019>
+2020-06-25 16:49:03 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 16:49:03 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 16:49:03 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 16:49:03 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2347083945398> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 16:49:45 [2049] [5] INFO: Starting to service <Password piuse1666¡gmail.com> from <+2348028239483> to <55019>
+2020-06-25 16:49:45 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 16:49:45 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 16:49:45 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 16:49:45 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348028239483> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 16:57:33 [2049] [5] INFO: Starting to service <Result> from <+2349015122468> to <55019>
+2020-06-25 16:57:33 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 16:57:33 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 16:57:33 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 16:57:33 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349015122468> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 16:59:19 [2049] [5] INFO: Starting to service <RESULT> from <+2349049461518> to <55019>
+2020-06-25 16:59:19 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 16:59:19 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 16:59:19 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 16:59:19 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349049461518> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 17:01:19 [2049] [5] INFO: Starting to service <RESULT> from <+2348127958303> to <55019>
+2020-06-25 17:01:19 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 17:01:19 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 17:01:19 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 17:01:19 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348127958303> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 17:05:11 [2049] [5] INFO: Starting to service < Jamb result> from <+2349014547197> to <55019>
+2020-06-25 17:05:11 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 17:05:11 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 17:05:11 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 17:05:11 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349014547197> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 17:05:50 [2049] [5] INFO: Starting to service <Password Ibukunoluwa210¡gmail.com > from <+2349074231194> to <55019>
+2020-06-25 17:05:50 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 17:05:50 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 17:05:50 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 17:05:50 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349074231194> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 17:08:14 [2049] [5] INFO: Starting to service <MY RESULT> from <+2348128035502> to <55019>
+2020-06-25 17:08:14 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 17:08:14 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 17:08:14 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 17:08:14 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348128035502> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 17:16:28 [2049] [5] INFO: Starting to service <Result> from <+2349043367028> to <55019>
+2020-06-25 17:16:28 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 17:16:28 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 17:16:28 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 17:16:28 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349043367028> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 17:17:30 [2049] [5] INFO: Starting to service <Result> from <+2347019720026> to <55019>
+2020-06-25 17:17:30 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 17:17:30 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 17:17:30 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 17:17:30 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2347019720026> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 17:26:24 [2049] [5] INFO: Starting to service <RESULT> from <+2349049953961> to <55019>
+2020-06-25 17:26:24 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 17:26:24 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 17:26:24 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 17:26:24 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349049953961> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 17:28:40 [2049] [5] INFO: Starting to service <Ll> from <+2348121694803> to <55019>
+2020-06-25 17:28:40 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 17:28:40 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 17:28:40 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 17:28:40 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348121694803> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 17:30:15 [2049] [5] INFO: Starting to service <RESULT> from <+2348082401313> to <55019>
+2020-06-25 17:30:15 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 17:30:15 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 17:30:15 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 17:30:15 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348082401313> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 17:31:36 [2049] [5] INFO: Starting to service <RESULT> from <+2349020496463> to <55019>
+2020-06-25 17:31:36 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 17:31:36 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 17:31:36 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 17:31:36 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349020496463> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 17:34:05 [2049] [5] INFO: Starting to service <Edoho Elizabeth emem> from <+2348022791822> to <55019>
+2020-06-25 17:34:05 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 17:34:05 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 17:34:05 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 17:34:05 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348022791822> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 17:35:41 [2049] [5] INFO: Starting to service <Result> from <+2348022791822> to <55019>
+2020-06-25 17:35:41 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 17:35:41 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 17:35:41 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 17:35:41 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348022791822> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 17:36:54 [2049] [5] INFO: Starting to service <RESULT> from <+2347012588928> to <55019>
+2020-06-25 17:36:54 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 17:36:54 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 17:36:54 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 17:36:54 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2347012588928> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 17:37:03 [2049] [5] INFO: Starting to service <RESULT> from <+2347082090124> to <55019>
+2020-06-25 17:37:03 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 17:37:03 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 17:37:03 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2347082090124> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 17:37:03 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 17:41:26 [2049] [5] INFO: Starting to service <RESULT> from <+2349020449244> to <55019>
+2020-06-25 17:41:26 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 17:41:26 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 17:41:26 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 17:41:26 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349020449244> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 17:42:30 [2049] [5] INFO: Starting to service <RESULT> from <+2348121876949> to <55019>
+2020-06-25 17:42:30 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 17:42:30 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 17:42:30 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 17:42:30 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348121876949> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 17:46:15 [2049] [5] INFO: Starting to service <55019> from <+2348083346716> to <55019>
+2020-06-25 17:46:15 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 17:46:15 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 17:46:15 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 17:46:15 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348083346716> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 17:46:24 [2049] [5] INFO: Starting to service <Men lie because we are affraid of ur re-action to d truth..> from <+2348085205928> to <55019>
+2020-06-25 17:46:24 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 17:46:24 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 17:46:24 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 17:46:24 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348085205928> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 17:49:31 [2049] [5] INFO: Starting to service <RESULT> from <+2347087377396> to <55019>
+2020-06-25 17:49:31 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 17:49:31 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 17:49:31 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 17:49:31 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2347087377396> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 17:54:57 [2049] [5] INFO: Starting to service <Result> from <+2349019798241> to <55019>
+2020-06-25 17:54:57 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 17:54:57 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 17:54:57 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 17:54:57 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349019798241> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 17:55:23 [2049] [5] INFO: Starting to service <RESUT> from <+2347086469436> to <55019>
+2020-06-25 17:55:23 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 17:55:23 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 17:55:23 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 17:55:23 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2347086469436> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 17:55:35 [2049] [5] INFO: Starting to service <RESULT> from <+2348128482689> to <55019>
+2020-06-25 17:55:35 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 17:55:35 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 17:55:35 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 17:55:35 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348128482689> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 17:57:31 [2049] [5] INFO: Starting to service <Dear Bitrus Happy , Your Profile Code: 1537430655. Visit http://ibass.jamb.gov.ng for your eBrochure> from <+2349049864760> to <55019>
+2020-06-25 17:57:31 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 17:57:31 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 17:57:31 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 17:57:31 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349049864760> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 18:06:02 [2049] [5] INFO: Starting to service <RESULT> from <+2349020496463> to <55019>
+2020-06-25 18:06:02 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 18:06:02 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 18:06:02 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349020496463> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 18:06:02 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 18:09:37 [2049] [5] INFO: Starting to service <Resend> from <+2348086425031> to <55019>
+2020-06-25 18:09:37 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 18:09:37 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 18:09:37 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 18:09:37 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348086425031> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 18:14:02 [2049] [5] INFO: Starting to service <UMEUWAEKWE NONNAFAITH CHINEMEREM > from <+2348123693132> to <55019>
+2020-06-25 18:14:02 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 18:14:02 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 18:14:02 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 18:14:02 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348123693132> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 18:17:49 [2049] [5] INFO: Starting to service <RESULT> from <+2347012237657> to <55019>
+2020-06-25 18:17:49 [2049] [5] INFO: Starting to service <Result> from <+2349072881141> to <55019>
+2020-06-25 18:17:49 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 18:17:49 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 18:17:49 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 18:17:49 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 18:17:49 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349072881141> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 18:17:49 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 18:17:49 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 18:17:49 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2347012237657> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 18:18:55 [2049] [5] INFO: Starting to service <RESULT> from <+2349020496463> to <55019>
+2020-06-25 18:18:55 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 18:18:55 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 18:18:55 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 18:18:55 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349020496463> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 18:28:40 [2049] [5] INFO: Starting to service <Result> from <+2348129791766> to <55019>
+2020-06-25 18:28:40 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 18:28:40 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 18:28:40 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 18:28:40 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348129791766> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 18:31:17 [2049] [5] INFO: Starting to service <Please ma l need  10 egg roll tomorrow> from <+2348026483436> to <55019>
+2020-06-25 18:31:17 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 18:31:17 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 18:31:17 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 18:31:17 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348026483436> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 18:38:26 [2049] [5] INFO: Starting to service <Result> from <+2349013271043> to <55019>
+2020-06-25 18:38:26 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 18:38:26 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 18:38:26 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 18:38:26 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349013271043> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 18:39:18 [2049] [5] INFO: Starting to service <Asonwa Jennifer chi> from <+2349071774658> to <55019>
+2020-06-25 18:39:18 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 18:39:18 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 18:39:18 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 18:39:18 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349071774658> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 18:39:57 [2049] [5] INFO: Starting to service <Result> from <+2349027585691> to <55019>
+2020-06-25 18:39:57 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 18:39:57 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 18:39:57 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 18:39:57 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349027585691> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 18:41:29 [2049] [5] INFO: Starting to service <RESULT> from <+2349020496463> to <55019>
+2020-06-25 18:41:29 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 18:41:29 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 18:41:29 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 18:41:29 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349020496463> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 18:45:08 [2049] [5] INFO: Starting to service <RESULT> from <+2348024181802> to <55019>
+2020-06-25 18:45:08 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 18:45:08 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 18:45:08 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 18:45:08 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348024181802> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 18:52:18 [2049] [5] INFO: Starting to service <RESULT> from <+2348126241434> to <55019>
+2020-06-25 18:52:18 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 18:52:18 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 18:52:18 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 18:52:18 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348126241434> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 18:55:55 [2049] [5] INFO: Starting to service <My result> from <+2349026736637> to <55019>
+2020-06-25 18:55:55 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 18:55:55 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 18:55:55 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 18:55:55 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349026736637> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 18:57:22 [2049] [5] INFO: Starting to service <Resend code> from <+2348128755966> to <55019>
+2020-06-25 18:57:22 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 18:57:22 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 18:57:22 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 18:57:22 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348128755966> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 18:58:31 [2049] [5] INFO: Starting to service <RESULT> from <+2349027163699> to <55019>
+2020-06-25 18:58:31 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 18:58:31 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 18:58:31 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 18:58:31 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349027163699> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 18:59:39 [2049] [5] INFO: Starting to service <RESULT> from <+2348024181802> to <55019>
+2020-06-25 18:59:39 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 18:59:39 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 18:59:39 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 18:59:39 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348024181802> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 19:08:53 [2049] [5] INFO: Starting to service <RESULT> from <+2348080321617> to <55019>
+2020-06-25 19:08:53 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 19:08:53 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 19:08:53 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 19:08:53 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348080321617> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 19:12:09 [2049] [5] INFO: Starting to service <Result> from <+2348080321617> to <55019>
+2020-06-25 19:12:09 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 19:12:09 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 19:12:09 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 19:12:09 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348080321617> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 19:12:18 [2049] [5] INFO: Starting to service <Result> from <+2349027430056> to <55019>
+2020-06-25 19:12:18 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 19:12:18 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 19:12:18 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 19:12:18 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349027430056> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 19:13:00 [2049] [5] INFO: Starting to service <Your loan request was successful, your account has been credited with 50> from <+2349049501836> to <55019>
+2020-06-25 19:13:00 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 19:13:00 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 19:13:00 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349049501836> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 19:13:00 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 19:19:38 [2049] [5] INFO: Starting to service <My result> from <+2347018650301> to <55019>
+2020-06-25 19:19:38 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 19:19:38 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 19:19:38 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 19:19:38 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2347018650301> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 19:20:36 [2049] [5] INFO: Starting to service <RESULT> from <+2348080321617> to <55019>
+2020-06-25 19:20:36 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 19:20:36 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 19:20:36 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 19:20:36 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348080321617> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 19:21:15 [2049] [5] INFO: Starting to service <My result> from <+2347018650301> to <55019>
+2020-06-25 19:21:15 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 19:21:15 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 19:21:15 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2347018650301> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 19:21:15 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 19:23:11 [2049] [5] INFO: Starting to service <RESULT> from <+2348089581205> to <55019>
+2020-06-25 19:23:11 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 19:23:11 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 19:23:11 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 19:23:11 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348089581205> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 19:25:48 [2049] [5] INFO: Starting to service <SUNDAY OLUWOYO BLESSING> from <+2349012725956> to <55019>
+2020-06-25 19:25:48 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 19:25:48 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 19:25:48 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 19:25:48 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349012725956> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 19:26:31 [2049] [5] INFO: Starting to service <My result> from <+2347018650301> to <55019>
+2020-06-25 19:26:31 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 19:26:31 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 19:26:31 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 19:26:31 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2347018650301> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 19:27:14 [2049] [5] INFO: Starting to service <Admission> from <+2349049232391> to <55019>
+2020-06-25 19:27:14 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 19:27:14 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 19:27:14 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 19:27:14 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349049232391> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 19:40:10 [2049] [5] INFO: Starting to service <RESULT> from <+2347013572935> to <55019>
+2020-06-25 19:40:10 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 19:40:10 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 19:40:10 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 19:40:10 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2347013572935> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 19:40:43 [2049] [5] INFO: Starting to service <Result> from <+2347014997038> to <55019>
+2020-06-25 19:40:43 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 19:40:43 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 19:40:43 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2347014997038> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 19:40:43 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 19:50:53 [2049] [5] INFO: Starting to service <DANIEL OJOCHENEMI ESTHER> from <+2349012804046> to <55019>
+2020-06-25 19:50:53 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 19:50:53 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 19:50:53 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 19:50:53 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349012804046> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 19:59:51 [2049] [5] INFO: Starting to service <Re-send> from <+2348089782659> to <55019>
+2020-06-25 19:59:51 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 19:59:51 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 19:59:51 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 19:59:51 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348089782659> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 20:00:01 [2049] [5] INFO: Starting to service <RESULT> from <+2349049754354> to <55019>
+2020-06-25 20:00:01 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 20:00:01 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 20:00:01 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 20:00:01 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349049754354> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 20:01:20 [2049] [5] INFO: Starting to service <Result> from <+2347081918909> to <55019>
+2020-06-25 20:01:20 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 20:01:20 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 20:01:20 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 20:01:20 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2347081918909> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 20:07:39 [2049] [5] INFO: Starting to service <ADMISSION> from <+2349023482097> to <55019>
+2020-06-25 20:07:39 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 20:07:39 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 20:07:39 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 20:07:39 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349023482097> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 20:11:16 [2049] [5] INFO: Starting to service <My jamb result> from <+2349016003408> to <55019>
+2020-06-25 20:11:16 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 20:11:16 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 20:11:16 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 20:11:16 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349016003408> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 20:12:43 [2049] [5] INFO: Starting to service <M baba kaka aji> from <+2349015136106> to <55019>
+2020-06-25 20:12:43 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 20:12:43 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 20:12:43 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 20:12:43 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349015136106> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 20:16:28 [2049] [5] INFO: Starting to service <Rest> from <+2349027886555> to <55019>
+2020-06-25 20:16:28 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 20:16:28 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 20:16:28 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 20:16:28 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349027886555> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 20:22:12 [2049] [5] INFO: Starting to service <Result> from <+2349016183833> to <55019>
+2020-06-25 20:22:12 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 20:22:12 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 20:22:12 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 20:22:12 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349016183833> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 20:31:41 [2049] [5] INFO: Starting to service <RESULT> from <+2348126541145> to <55019>
+2020-06-25 20:31:41 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 20:31:41 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 20:31:41 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 20:31:41 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348126541145> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 20:32:25 [2049] [5] INFO: Starting to service <Result> from <+2349049432495> to <55019>
+2020-06-25 20:32:25 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 20:32:25 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 20:32:25 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 20:32:25 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349049432495> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 20:36:59 [2049] [5] INFO: Starting to service <RESULT> from <+2349028944794> to <55019>
+2020-06-25 20:36:59 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 20:36:59 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 20:36:59 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 20:36:59 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349028944794> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 20:39:48 [2049] [5] INFO: Starting to service <USMAN GIDADO RESULT JAMB> from <+2348085774036> to <55019>
+2020-06-25 20:39:48 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 20:39:48 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 20:39:48 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 20:39:48 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348085774036> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 20:45:53 [2049] [5] INFO: Starting to service <202D004F00470042005500200045004400570049004E202C> from <+2348084378984> to <55019>
+2020-06-25 20:45:53 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 20:45:53 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 20:45:53 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 20:45:53 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348084378984> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 20:47:30 [2049] [5] INFO: Starting to service <Password nwaru1994¡gmail.com> from <+2347011826199> to <55019>
+2020-06-25 20:47:30 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 20:47:30 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 20:47:30 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 20:47:30 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2347011826199> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 20:52:47 [2049] [5] INFO: Starting to service <RESULT> from <+2349073036667> to <55019>
+2020-06-25 20:52:47 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 20:52:47 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 20:52:47 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 20:52:47 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349073036667> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 21:01:12 [2049] [5] INFO: Starting to service <Ugah chidimma queedaleen> from <+2349078838603> to <55019>
+2020-06-25 21:01:12 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 21:01:12 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 21:01:12 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 21:01:12 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349078838603> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 21:01:42 [2049] [5] INFO: Starting to service <RESULT> from <+2349024107541> to <55019>
+2020-06-25 21:01:42 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 21:01:42 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 21:01:42 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 21:01:42 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349024107541> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 21:04:10 [2049] [5] INFO: Starting to service <Result> from <+2348082777137> to <55019>
+2020-06-25 21:04:10 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 21:04:10 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 21:04:10 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 21:04:10 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348082777137> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 21:08:21 [2049] [5] INFO: Starting to service <RESULT> from <+2349013842851> to <55019>
+2020-06-25 21:08:21 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 21:08:21 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 21:08:21 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 21:08:21 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349013842851> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 21:08:59 [2049] [5] INFO: Starting to service <ADJERHORE MICHAEL> from <+2349071723941> to <55019>
+2020-06-25 21:08:59 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 21:08:59 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 21:08:59 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349071723941> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 21:08:59 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 21:09:14 [2049] [5] INFO: Starting to service <Oladejo oluwaseun Hezekiah> from <+2349042916445> to <55019>
+2020-06-25 21:09:14 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 21:09:14 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 21:09:14 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 21:09:14 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349042916445> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 21:16:39 [2049] [5] INFO: Starting to service <OJESOLA TAIWO ROSELINE> from <+2347083144648> to <55019>
+2020-06-25 21:16:40 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 21:16:40 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 21:16:40 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 21:16:40 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2347083144648> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 21:18:19 [2049] [5] INFO: Starting to service <Result> from <+2349022884313> to <55019>
+2020-06-25 21:18:19 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 21:18:19 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 21:18:19 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 21:18:19 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349022884313> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 21:18:23 [2049] [5] INFO: Starting to service <Result > from <+2349049565160> to <55019>
+2020-06-25 21:18:23 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 21:18:23 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 21:18:23 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349049565160> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 21:18:23 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 21:34:01 [2049] [5] INFO: Starting to service <JAMA RESULT> from <+2348126904432> to <55019>
+2020-06-25 21:34:01 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 21:34:01 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 21:34:01 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 21:34:01 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348126904432> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 21:34:49 [2049] [5] INFO: Starting to service <RESENT TO> from <+2349049318705> to <55019>
+2020-06-25 21:34:49 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 21:34:49 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 21:34:49 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 21:34:49 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349049318705> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 21:44:55 [2049] [5] INFO: Starting to service <Result> from <+2347082158573> to <55019>
+2020-06-25 21:44:55 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 21:44:55 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 21:44:55 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 21:44:55 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2347082158573> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 21:45:53 [2049] [5] INFO: Starting to service <RESULT> from <+2349046427304> to <55019>
+2020-06-25 21:45:53 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 21:45:53 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 21:45:53 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 21:45:53 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349046427304> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 21:50:18 [2049] [5] INFO: Starting to service <RESULT> from <+2347082158573> to <55019>
+2020-06-25 21:50:18 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 21:50:18 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 21:50:18 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 21:50:18 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2347082158573> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 21:56:13 [2049] [5] INFO: Starting to service <JAMB RESULT> from <+2348083609322> to <55019>
+2020-06-25 21:56:13 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 21:56:13 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 21:56:13 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 21:56:13 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348083609322> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 21:59:53 [2049] [5] INFO: Starting to service <RESULT> from <+2347089688760> to <55019>
+2020-06-25 21:59:53 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 21:59:53 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 21:59:53 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 21:59:53 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2347089688760> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 22:03:42 [2049] [5] INFO: Starting to service <resend> from <+2349072045691> to <55019>
+2020-06-25 22:03:42 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 22:03:42 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 22:03:42 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 22:03:42 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349072045691> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 22:03:58 [2049] [5] INFO: Starting to service <RSULT> from <+2349044751101> to <55019>
+2020-06-25 22:03:58 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 22:03:58 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 22:03:58 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 22:03:58 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349044751101> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 22:04:08 [2049] [5] INFO: Starting to service <Dear Imarah Israel, Your 2020 UTME Result: ENG: 68, PHY: 72, BIO: 79, CHE: 75, Aggregate: 294> from <+2348084882164> to <55019>
+2020-06-25 22:04:08 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 22:04:08 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 22:04:08 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 22:04:08 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348084882164> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 22:14:24 [2049] [5] INFO: Starting to service <Dear Garba M. H., Your Profile Code is 1532397971 and Your 2020 UTME PIN is 421413468063146 purchased from ZAZZAU MFB> from <+2347086723553> to <55019>
+2020-06-25 22:14:24 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 22:14:24 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 22:14:24 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 22:14:24 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2347086723553> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 22:14:41 [2049] [5] INFO: Starting to service <Oghale Emmanuel Oghenerouna> from <+2347085028626> to <55019>
+2020-06-25 22:14:41 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 22:14:41 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 22:14:41 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 22:14:41 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2347085028626> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 22:16:25 [2049] [5] INFO: Starting to service <Resuit> from <+2348124683733> to <55019>
+2020-06-25 22:16:25 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 22:16:25 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 22:16:25 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 22:16:25 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348124683733> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 22:17:34 [2049] [5] INFO: Starting to service <RESULT> from <+2347088982006> to <55019>
+2020-06-25 22:17:34 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 22:17:34 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 22:17:34 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 22:17:34 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2347088982006> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 22:19:43 [2049] [5] INFO: Starting to service <SARKI WADA MUHAMMED> from <+2349024405259> to <55019>
+2020-06-25 22:19:43 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 22:19:43 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 22:19:43 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 22:19:43 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349024405259> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 22:27:33 [2049] [5] INFO: Starting to service <RESULT> from <+2349042592190> to <55019>
+2020-06-25 22:27:33 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 22:27:33 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 22:27:33 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 22:27:33 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349042592190> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 22:28:27 [2049] [5] INFO: Starting to service <Result> from <+2348029824676> to <55019>
+2020-06-25 22:28:27 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 22:28:27 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 22:28:27 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 22:28:27 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348029824676> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 22:30:19 [2049] [5] INFO: Starting to service <RESULT> from <+2349042592190> to <55019>
+2020-06-25 22:30:19 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 22:30:19 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 22:30:19 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 22:30:19 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349042592190> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 22:31:46 [2049] [5] INFO: Starting to service <RESULT> from <+2348122452563> to <55019>
+2020-06-25 22:31:46 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 22:31:46 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 22:31:46 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 22:31:46 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348122452563> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 22:33:29 [2049] [5] INFO: Starting to service <Adam Umar Muhammad> from <+2348028926272> to <55019>
+2020-06-25 22:33:29 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 22:33:29 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 22:33:29 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 22:33:29 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348028926272> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 22:33:50 [2049] [5] INFO: Starting to service <Password piuse1666gmail.com> from <+2348028239483> to <55019>
+2020-06-25 22:33:50 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 22:33:50 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 22:33:50 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 22:33:50 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348028239483> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 22:34:47 [2049] [5] INFO: Starting to service <My jamb resul> from <+2349016003408> to <55019>
+2020-06-25 22:34:47 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 22:34:47 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 22:34:47 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 22:34:47 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349016003408> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 22:35:07 [2049] [5] INFO: Starting to service <RESULT> from <+2348128701374> to <55019>
+2020-06-25 22:35:07 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 22:35:07 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 22:35:07 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348128701374> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 22:35:07 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 22:39:45 [2049] [5] INFO: Starting to service <My jamb resul> from <+2349016003408> to <55019>
+2020-06-25 22:39:45 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 22:39:45 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 22:39:45 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 22:39:45 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349016003408> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 22:40:08 [2049] [5] INFO: Starting to service <RESULT> from <+2349025417354> to <55019>
+2020-06-25 22:40:08 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 22:40:08 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 22:40:08 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349025417354> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 22:40:08 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 22:40:13 [2049] [5] INFO: Starting to service <ADAMU rhiyi George > from <+2349075686275> to <55019>
+2020-06-25 22:40:13 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 22:40:13 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 22:40:13 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 22:40:13 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349075686275> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 22:43:22 [2049] [5] INFO: Starting to service <RESULT> from <+2348128701374> to <55019>
+2020-06-25 22:43:22 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 22:43:22 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 22:43:22 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 22:43:22 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348128701374> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 22:45:01 [2049] [5] INFO: Starting to service <Result> from <+2349021691483> to <55019>
+2020-06-25 22:45:01 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 22:45:01 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 22:45:01 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 22:45:01 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349021691483> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 22:45:51 [2049] [5] INFO: Starting to service <Result> from <+2349021691483> to <55019>
+2020-06-25 22:45:51 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 22:45:51 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 22:45:51 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 22:45:51 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349021691483> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 22:54:10 [2049] [5] INFO: Starting to service <Result> from <+2349025763991> to <55019>
+2020-06-25 22:54:10 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 22:54:10 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 22:54:10 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 22:54:10 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349025763991> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 23:10:36 [2049] [5] INFO: Starting to service <KASSIM SHERIF NELSON> from <+2349042601419> to <55019>
+2020-06-25 23:10:36 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 23:10:36 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 23:10:36 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 23:10:36 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349042601419> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 23:14:55 [2049] [5] INFO: Starting to service <RESULT> from <+2347012481369> to <55019>
+2020-06-25 23:14:55 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 23:14:55 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 23:14:55 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 23:14:55 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2347012481369> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 23:43:48 [2049] [5] INFO: Starting to service <Iheanyichukwu Martin Worlu> from <+2348081643799> to <55019>
+2020-06-25 23:43:48 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 23:43:48 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 23:43:48 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 23:43:48 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2348081643799> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-25 23:57:56 [2049] [5] INFO: Starting to service <Are you crazy> from <+2349017514755> to <55019>
+2020-06-25 23:57:56 [2049] [6] WARNING: Tried to set Coding field, denied.
+2020-06-25 23:57:56 [2049] [3] INFO: smsbox: Got HTTP request </cgi-bin/sendsms> from <127.0.0.1>
+2020-06-25 23:57:56 [2049] [3] INFO: sendsms used by <test>
+2020-06-25 23:57:56 [2049] [3] INFO: sendsms sender:<test:55019> (127.0.0.1) to:<2349017514755> msg:<Your request has been received and is being processed, you will get response shortly. This service will cost you #50.>
+2020-06-26 00:00:01 [2049] [0] WARNING: SIGHUP received, catching and re-opening logs
